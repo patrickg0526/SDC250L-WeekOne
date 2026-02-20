@@ -1,8 +1,7 @@
 /* 
-  SDC250 / SDC250L
+  SDC250L
   Project 2.2 - Manipulating the Database Structure
   Name: Patrick Gonzalez
-  Student ID: patgon2554
 */
 
 ------------------------------------------------------------
@@ -263,3 +262,4 @@ SELECT
   DATEUPDATED
 FROM USERSUPPORT
 WHERE STATUS IN ('NEW','IN PROGRESS');
+
